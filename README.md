@@ -6,7 +6,7 @@
 - 💬 Ask me about **Data Science , Machine Learning**
 
 - 📫 How to reach me **pratiksalunke1901@gmail.com**
-
+  
 - 📄 Know about my experiences [https://www.linkedin.com/in/pratik-salunke-594941205/](https://www.linkedin.com/in/pratik-salunke-594941205/)
 
 <h3 align="left">Connect with me:</h3>
