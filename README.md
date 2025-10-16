@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Salunke</h1>
-<h3 align="center">Data Science Enthusiastic| Completed Master Degree In Computer Science|Data Analysis | Python | SQL | Machine Learning</h3>
+<h3 align="center">Data Science Enthusiastic| Completed Master Degree In Computer Science|Data Analysis | Python | SQL | Machine Learning | RAG | AI Agent | Agentic AI </h3>
 
 - 🌱 I’m currently learning **Data Science , Machine Learning ,Artifical Intelligence  ,GenerativeAI**
 
